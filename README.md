@@ -26,8 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/IntelliJ
--39477F?style=flat-square&logo=Realm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-39477F?style=flat-square&logo=Realm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
