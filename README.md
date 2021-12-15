@@ -2,7 +2,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+HyeonJeong;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-
 #### CONTACT
 
 <!--
