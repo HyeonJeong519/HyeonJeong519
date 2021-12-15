@@ -2,7 +2,8 @@
 
 <div align="center">
 <br><br><br>
- <p font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=300&height=53&lines=%E3%80%80%E3%80%80>Hi, there.</p>
+ <p font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=300&height=53>Hi, there.</p>
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=300&height=53&lines=%E3%80%80%E3%80%80I'm+HyeonJeong.;%2C+Nice+to+meet+you!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br><br>
