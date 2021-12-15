@@ -7,15 +7,30 @@
 
 <!-- Hyeonjeong's profile -->
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpla&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
-</a>
-<a href="https://github.com/devpla/github-stats-transparent">
-  <img src="https://raw.githubusercontent.com/devpla/github-stats-transparent/output/generated/languages.svg" width=49.2% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=devpla&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
-</a>
+ <p>
+  👋&nbsp; I'm studying <b>Back End</b> 🚀<br>
+  I like to ~~~ <br>
+  I enjoy ~~~~~ <br>
+</p>
+
+ ### 💪 Skills
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+</p>
+
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
+
 
 
 <br><br><br>
