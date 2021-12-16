@@ -10,11 +10,13 @@
  <p>
   <img src="https://img.shields.io/badge/@study_hj_519-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
   <img src="https://img.shields.io/badge/blockb792956@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+  <br>
  </p>
  <p>
-  I'm studying <b>Back End</b>. 🚀<br>
+  I'm studying <b>Back End</b>.<br>
   I like to use Java frequently.<br>
-  I enjoy ~~~~~ <br>
+  I will study Java and Spring! <br>
+  I enjoy watching movies.😘 <br><br>
 </p>
 
  ### 💪 Skills
