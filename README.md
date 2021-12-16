@@ -14,8 +14,8 @@
  </p>
  <p>
   I'm studying <b>Back End</b>.<br>
-  I like to use Java frequently.<br>
-  I will study Java and Spring! <br>
+  I like to use <b>Java</b> frequently.<br>
+  I will study <b>Java</b> and <b>Spring</b>! <br>
   I enjoy watching movies.😘 <br><br>
 </p>
 
@@ -34,10 +34,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 
+<br><br>
 
-
-<br><br><br>
-
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=HyeonJeong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
+</a>
+<a href="https://github.com/devpla/github-stats-transparent">
+  <img src="https://raw.githubusercontent.com/devpla/github-stats-transparent/output/generated/languages.svg" width=49.2% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=devpla&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
+</a>
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevpla&count_bg=%23AB90E8&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
 <!--
