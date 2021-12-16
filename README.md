@@ -8,8 +8,8 @@
 <!-- Hyeonjeong's profile -->
  ### 🤙🏻 Contact
  <p>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Swift&logoColor=white"/> @study_hj_519
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Java&logoColor=white"/> blockb792956@gmail.com
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> @study_hj_519
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> blockb792956@gmail.com
  </p>
  <p>
   I'm studying <b>Back End</b>. 🚀<br>
@@ -20,9 +20,9 @@
  ### 💪 Skills
 #### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
 </p>
 
 #### Tools
