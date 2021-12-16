@@ -42,7 +42,7 @@
 <a href="https://github.com/HyeonJeong519/github-stats-transparent">
   <img src="https://raw.githubusercontent.com/HyeonJeong519/github-stats-transparent/output/generated/languages.svg" width=49.2% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/HyeonJeong519/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=HyeonJeong519&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
  
