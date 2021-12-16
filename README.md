@@ -36,10 +36,11 @@
 
 <br><br>
  
-<a href="https://github.com/HyeonJeong519/github-stats">
- ![](https://github.com/HyeonJeong519/github-stats/blob/master/generated/overview.svg)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=HyeonJeong519&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
+</a>
 
-<a href="https://github.com/HyeonJeong/github-stats-transparent">
+<a href="https://github.com/HyeonJeong519/github-stats-transparent">
   <img src="https://raw.githubusercontent.com/HyeonJeong519/github-stats-transparent/output/generated/languages.svg" width=49.2% />
 </a>
  <a href="https://github.com/HyeonJeong519/github-readme-activity-graph">
