@@ -1,15 +1,19 @@
 <div align="center">
 <br><br><br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=300&height=53&lines=%E3%80%80%E3%80%80Hi%2C+there;+I'm+HyeonJeong.;Nice+to+meet+you!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=320&height=53&lines=%E3%80%80%E3%80%80Hi%2C+there;+I'm+HyeonJeong.;Nice+to+meet+you!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br><br>
 
 <!-- Hyeonjeong's profile -->
- 
+ ### 🤙🏻 Contact
  <p>
-  👋&nbsp; I'm studying <b>Back End</b> 🚀<br>
-  I like to ~~~ <br>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Swift&logoColor=white"/> @study_hj_519
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Java&logoColor=white"/> blockb792956@gmail.com
+ </p>
+ <p>
+  I'm studying <b>Back End</b>. 🚀<br>
+  I like to use Java frequently.<br>
   I enjoy ~~~~~ <br>
 </p>
 
