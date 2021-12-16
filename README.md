@@ -8,8 +8,8 @@
 <!-- Hyeonjeong's profile -->
  ### 🤙🏻 Contact
  <p>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> @study_hj_519
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> blockb792956@gmail.com
+  <img src="https://img.shields.io/badge/@study_hj_519-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/blockb792956@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
  </p>
  <p>
   I'm studying <b>Back End</b>. 🚀<br>
@@ -27,9 +27,9 @@
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=ReactiveX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=Realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 
 
