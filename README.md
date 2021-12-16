@@ -16,16 +16,16 @@
  ### 💪 Skills
 #### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/Slack-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-39477F?style=flat-square&logo=Realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=ReactiveX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=Realm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
 
