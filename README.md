@@ -39,9 +39,7 @@
  <a href="https://github.com/anuraghazra/github-readme-transparent">
   <img src="https://github-readme-stats.vercel.app/api?username=HyeonJeong519&show_icons=true&theme=material-palenight&hide_border=true&text_color=fff" width=49.2% />
 </a>
-<a href="https://github.com/HyeonJeong519/github-stats-transparent">
-  <img src="https://raw.githubusercontent.com/HyeonJeong519/github-stats-transparent/output/generated/languages.svg" width=49.2% />
-</a>
+![](https://github.com/HyeonJeong519/github-stats/blob/master/generated/overview.svg)
 <a href="https://github.com/HyeonJeong519/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=HyeonJeong519&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
