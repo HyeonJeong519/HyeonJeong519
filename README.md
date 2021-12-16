@@ -1,7 +1,7 @@
 <div align="center">
 <br><br><br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=300&height=53&lines=%E3%80%80%E3%80%80Hi+there;+I'm+HyeonJeong.;Nice+to+meet+you!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=300&height=53&lines=%E3%80%80%E3%80%80Hi%2C+there;+I'm+HyeonJeong.;Nice+to+meet+you!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br><br>
 
@@ -18,7 +18,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Html5-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
 #### Tools
