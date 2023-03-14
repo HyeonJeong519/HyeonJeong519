@@ -35,6 +35,10 @@
 </p>
 
 <br><br>
+<p>
+<a href="https://solved.ac/profile/blockb7929"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blockb7929" style="vertical-align:top" width="163px;" /></a>
+ </p>
+
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonJeong519)](https://github.com/HyeonJeong519/github-readme-stats)
 
