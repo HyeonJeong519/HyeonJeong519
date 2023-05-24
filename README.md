@@ -33,8 +33,9 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
+ <br><br>
+ 
   ### Hits
- <br>
  <p>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonJeong519%2F&count_bg=%23F3B7B0&title_bg=%23FF4848&icon=&icon_color=%23A6A3A3&title=hits&edge_flat=false"/></a>
 </p>
