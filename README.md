@@ -9,11 +9,11 @@
  ### 🤙🏻 Contact
  <p>
   <img src="https://img.shields.io/badge/@study_hj_519-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/blockb792956@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/ynnej519@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
   <br>
  </p>
  <p>
-  I'm studying <b>Back End</b>.<br>
+  I'm studying <b>Product Managing</b>.<br>
   I like to use <b>Java</b> frequently.<br>
   I will study <b>Java</b> and <b>Spring</b>! <br>
   I enjoy watching movies.😘 <br><br>
